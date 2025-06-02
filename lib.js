@@ -1,7 +1,7 @@
 /*!
- * mdashtml.js - Instant Markdown Rendering
+ * rendermd.js - Instant Markdown Rendering
  * Include this script to automatically render markdown content as HTML
- * Usage: Just add <script src="https://mdashtml.com/mdashtml.js"></script>
+ * Usage: Just add <script src="https://rendermd.com/lib.js"></script>
  */
 
 // Encapsulated marked.js library
