@@ -1,0 +1,8 @@
+name = 'mdashtml'
+compatibility_date = "2025-06-01"
+assets.directory = "./"
+dev.port = 3000
+routes = [
+  { pattern = "googllm.com", custom_domain = true },
+  { pattern = "www.googllm.com", custom_domain = true }
+]
